@@ -1,4 +1,5 @@
-## Hi there 👋
+## David Muñoz Fotografía y Diseño Gráfico 👋
+## Desarrollador VB .Net y en proceso de Python 🐍
 
 <!--
 **DMFotoYDiseno/DMFotoYDiseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
